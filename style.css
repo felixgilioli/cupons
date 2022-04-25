@@ -94,3 +94,17 @@ a {
 a:visited {
 	color: #007bff;
 }
+
+.td-cupom-codigo {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.cupom-codigo {
+	border: 1px solid #025cbd;
+	padding: 10px 15px;
+	background-color: #007bff;
+	color: #fff;
+	box-shadow: 3px 3px 5px #aaaaaa;
+	border-radius: 5px;
+}

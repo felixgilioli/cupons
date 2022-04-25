@@ -1,0 +1,12 @@
+{
+	"cupons": [
+		{
+			"titulo": "10% para compras acima de R$ 100.",
+			"dataExpiracao": "30/04/2022",
+			"site": "https://www.magazineluiza.com.br",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "R$ 100 OFF em compras de itens selecionados acima de R$ 1.300. Se tem promocode ativo, estará no Agora Cupom. Aproveite!",
+			"codigo": "QUERO100"
+		},
+	]
+}
