@@ -1,3 +1,96 @@
+html {
+	font-family: sans-serif;
+}
+
+body {
+	margin: 0;
+	background-color: #F5F5F5;
+}
+
+header {
+	background-color: #1a3652;
+	padding: 15px;
+}
+
+header span {
+	color: #fff;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: monospace;
+}
+
+.titulo {
+	color: #3e3e3e;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	margin-bottom: 15px;
+	width: 50%;
+}
+
+.lista-cupons {
+	display: flex;
+    flex-flow: column wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cupom-card {
+	background-color: #fff;
+	border: 1px solid #e3e3e3;
+	margin-right: 30px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	display: flex;
+	flex-direction: row;
+    align-items: center
+}
+
+.cupom-card .site-logo {
+	margin-top: 30px;
+	margin-right: 30px;
+}
+
+.cupom-card .cupom-info {
+	width: 100%;
+}
 .text-center {
 	text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+td {
+	vertical-align: top;
+	width: 100px;
+}
+
+tr th {
+	font-size: 25px;
+	padding-bottom: 20px;
+	color: #3e3e3e;
+}
+
+tr td:first-child {
+	font-weight: bold;
+	word-break: normal;
+	color: #3e3e3e;
+	width: 18%;
+}
+
+a {
+	text-decoration: none;
+	color: #007bff;
+}
+
+a:visited {
+	color: #007bff;
 }
