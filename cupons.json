@@ -1,6 +1,22 @@
 {
 	"cupons": [
 		{
+			"titulo": "25% Off no primeiro pedido",
+			"dataExpiracao": "Não expira",
+			"site": "https://aiqfome.com/",
+			"image": "https://seeklogo.com/images/A/aiqfome-logo-CF1276DCAF-seeklogo.com.png",
+			"regras": "Válido apenas para o primeiro pedido utilizando o aplicativo do aiqfome.",
+			"codigo": "FELIXGILIOLI-CM02"
+		},
+		{
+			"titulo": "Brinde + Cashback",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.wine.com.br/",
+			"image": "https://img.wine.com.br/lojas-fisicas/hotsite/como-funciona/logo-appwine.svg",
+			"regras": "Válido apenas para a primeira compra no site da wine.",
+			"codigo": "FLXR050592"
+		},
+		{
 			"titulo": "Cupom Desconto R$ 10",
 			"dataExpiracao": "Não expira",
 			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
@@ -79,14 +95,6 @@
 			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
 			"regras": "Válido para compras à partir de R$ 4.999,90 vendidos e entregues pelo Magalu.",
 			"codigo": "100HADOOP"
-		},
-		{
-			"titulo": "25% Off no primeiro pedido",
-			"dataExpiracao": "Não expira",
-			"site": "https://aiqfome.com/",
-			"image": "https://seeklogo.com/images/A/aiqfome-logo-CF1276DCAF-seeklogo.com.png",
-			"regras": "Válido apenas para o primeiro pedido utilizando o aplicativo do aiqfome.",
-			"codigo": "FELIXGILIOLI-CM02"
 		}
 	]
 }
