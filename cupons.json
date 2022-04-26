@@ -1,12 +1,92 @@
 {
 	"cupons": [
 		{
-			"titulo": "10% para compras acima de R$ 100.",
-			"dataExpiracao": "30/04/2022",
-			"site": "https://www.magazineluiza.com.br",
+			"titulo": "Cupom Desconto R$ 10",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
 			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
-			"regras": "R$ 100 OFF em compras de itens selecionados acima de R$ 1.300. Se tem promocode ativo, estará no Agora Cupom. Aproveite!",
-			"codigo": "QUERO100"
+			"regras": "Válido para compras à partir de R$ 499,90 vendidos e entregues pelo Magalu.",
+			"codigo": "10HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 20",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 999,90 vendidos e entregues pelo Magalu.",
+			"codigo": "20HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 30",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 1.499,90 vendidos e entregues pelo Magalu.",
+			"codigo": "30HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 40",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 1.999,90 vendidos e entregues pelo Magalu.",
+			"codigo": "40HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 50",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 2.499,90 vendidos e entregues pelo Magalu.",
+			"codigo": "50HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 60",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 2.999,90 vendidos e entregues pelo Magalu.",
+			"codigo": "60HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 70",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 3.499,90 vendidos e entregues pelo Magalu.",
+			"codigo": "70HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 80",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 3.999,90 vendidos e entregues pelo Magalu.",
+			"codigo": "80HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 90",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 4.499,90 vendidos e entregues pelo Magalu.",
+			"codigo": "90HADOOP"
+		},
+		{
+			"titulo": "Cupom Desconto R$ 100",
+			"dataExpiracao": "Não expira",
+			"site": "https://www.magazinevoce.com.br/magazinehadoop/",
+			"image": "https://ofertaideal-public-dev.s3.amazonaws.com/sellers/magazine-luiza.png",
+			"regras": "Válido para compras à partir de R$ 4.999,90 vendidos e entregues pelo Magalu.",
+			"codigo": "100HADOOP"
+		},
+		{
+			"titulo": "25% Off no primeiro pedido",
+			"dataExpiracao": "Não expira",
+			"site": "https://aiqfome.com/",
+			"image": "https://seeklogo.com/images/A/aiqfome-logo-CF1276DCAF-seeklogo.com.png",
+			"regras": "Válido apenas para o primeiro pedido utilizando o aplicativo do aiqfome.",
+			"codigo": "FELIXGILIOLI-CM02"
 		}
 	]
 }
